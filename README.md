@@ -1,3 +1,3 @@
-# test_github_1
+# Actividad de Git para el curso de Ingeniería de Software 
 
 # Integrantes: Jaime Ramos y Sebastian Chu
