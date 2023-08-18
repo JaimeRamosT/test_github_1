@@ -35,7 +35,8 @@ Jaime Ramos y Sebastian Chu
 - ```git push origin master```
 
 ## Merge el branch feature2 a master con la funcion multiplicación:
-- ``` git rebase feature1```
+- ``` git checkout master```
+- ``` git rebase```
 - ```git merge feature1```    
 - ```git commit -m "Merge feature1 en master funcion suma"```    
 - ```git push origin master```
